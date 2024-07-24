@@ -1,0 +1,11 @@
+body{
+  background-color: white ;
+}
+.textLeft {
+  margin-right: auto; /* Pour aligner le texte à gauche */
+  font-weight: bold; /* Par exemple */
+  font-size: 20px; /* Taille de la police */
+  margin-top: 20px; /* Espacement en haut */
+  margin-bottom: 20px; /* Espacement en bas */
+  /* Ajoutez d'autres styles selon vos préférences */
+}
